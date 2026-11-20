@@ -1,0 +1,3 @@
+API_TOKEN = ''
+WLAN_SSID = ""
+WLAN_PASSWORD = ""
